@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 djangorestframework = "*"
+psycopg = "*"
+psycopg-binary = "*"
+pillow = "*"
 
 [dev-packages]
 
